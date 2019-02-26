@@ -25,7 +25,7 @@ while True:
             contact_name = input("Enter a contact name ").upper()
             phone_number = input("Enter a phone number ")
             address = input("Enter an address (city) ")
-            create_contact(directory, contact_name, phone_number, address, first_log)
+            create_contact(directory, contact_name, phone_number, address)
             print("-----")
         if action == "L":
             list_of_contact(directory)
