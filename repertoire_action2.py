@@ -1,5 +1,5 @@
 # from terminaltables import AsciiTable
-def create_contact(directory, contact_name, phone_number, address, first_log):
+def create_contact(directory, contact_name, phone_number, address):
     """function : adding contact to the directory"""
     temp_directory = {}
     temp_directory["contact"] = contact_name
