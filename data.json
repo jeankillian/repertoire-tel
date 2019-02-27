@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Toto",
+        "number": "123",
+        "address": "aze"
+    },
+    {
+        "name": "Titi",
+        "number": "456",
+        "address": "rty"
+    },
+    {
+        "name": "Tata",
+        "number": "789",
+        "address": "uio"
+    },
+    {
+        "name": "T\u00fbt\u00fb",
+        "number": "159",
+        "address": "ato"
+    }
+]
